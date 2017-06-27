@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 /**
  * 整理常用的一些组件，方便代码复用，查找
+ *
+ * @author michael
  */
 public class MainActivity extends AppCompatActivity
 {
